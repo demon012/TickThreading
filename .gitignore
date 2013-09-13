@@ -52,5 +52,11 @@ nbproject
 build.number
 
 # Forge+MCP downloads #
-##################
+#######################
 download
+
+# Vim Files #
+# ###########
+*.swo
+*.swp
+*~
